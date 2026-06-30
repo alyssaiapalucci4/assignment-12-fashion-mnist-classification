@@ -112,7 +112,9 @@ Run all cells from top to bottom
 View evaluation results and visualizations
 
 --- 
+
 Author
 
 Alyssa I
+
 ---

@@ -4,7 +4,6 @@
 
 This project implements a **feedforward neural network (MLP)** to classify images from the Fashion-MNIST dataset into 10 clothing categories.
 
-
 ---
 
 ## Dataset
@@ -113,3 +112,4 @@ Alyssa I
 ## Notes
 - Augmentation was implemented and visualized but not used in final training
 - Project built for educational purposes
+  

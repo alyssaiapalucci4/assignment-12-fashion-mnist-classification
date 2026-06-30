@@ -113,8 +113,6 @@ This model can be used in real-world applications such as:
    
 ---
 
---- 
-
 Author
 
 Alyssa I

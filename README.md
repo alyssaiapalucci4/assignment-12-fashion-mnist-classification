@@ -108,8 +108,8 @@ This model can be used in real-world applications such as:
 2. Install required libraries:
    ```bash
    pip install tensorflow numpy matplotlib seaborn scikit-learn
-Run all cells from top to bottom
-View evaluation results and visualizations
+3. Run all cells from top to bottom
+4. View evaluation results and visualizations
 
 --- 
 

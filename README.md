@@ -96,7 +96,7 @@ This model can be used in:
 ---
 
 ## How to Run
-1. Open the Jupyter/Colab notebook
+1. Open the Jupyter/Colab notebook: Assignment_12_AI.ipynb
 2. Install required libraries:
    ```bash
    pip install tensorflow numpy matplotlib seaborn scikit-learn

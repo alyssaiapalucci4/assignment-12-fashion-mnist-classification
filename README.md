@@ -110,6 +110,8 @@ This model can be used in real-world applications such as:
    pip install tensorflow numpy matplotlib seaborn scikit-learn
 3. Run all cells from top to bottom
 4. View evaluation results and visualizations
+   
+---
 
 --- 
 
